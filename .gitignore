@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Model checkpoints
+checkpoints/
+*.pth
+*.pt
+
+# Dataset
+data/
+OASIS/
+keras_png_slices_data/
+
+# Python
+__pycache__/
+*.pyc
